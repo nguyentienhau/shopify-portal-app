@@ -1,0 +1,24 @@
+.rulePage {
+}
+
+.ruleHeader {
+	display: flex;
+	padding: 0rem 1rem;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.ruleButton {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+}
+
+.ruleButton button {
+}
+
+.ruleSetting {
+}
+
+.rulePreview {
+}
