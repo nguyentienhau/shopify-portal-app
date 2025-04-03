@@ -1,0 +1,29 @@
+{
+	"name": "frontend",
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"build": "vite build",
+		"dev": "vite",
+		"coverage": "vitest run --coverage"
+	},
+	"dependencies": {
+		"@shopify/app-bridge": "^3.7.10",
+		"@shopify/app-bridge-react": "^4.1.8",
+		"@shopify/i18next-shopify": "^0.2.11",
+		"@shopify/polaris": "^13.9.5",
+		"@shopify/polaris-icons": "^9.3.1",
+		"i18next": "^24.2.3",
+		"prop-types": "^15.8.1",
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1",
+		"react-i18next": "^15.4.1",
+		"react-redux": "^9.2.0",
+		"react-router-dom": "^7.4.1",
+		"redux": "^5.0.1"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-react": "^4.3.4",
+		"vite": "^6.2.4"
+	}
+}
